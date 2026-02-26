@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/Inter-VLAN-Routing-with-802.1Q-Trunking-Router-on-a-Stick-Lab-/blob/main/3456.PNG?raw=true)
 
 # 🖥️ CCNA Lab – VLAN and Trunk Configuration
 
